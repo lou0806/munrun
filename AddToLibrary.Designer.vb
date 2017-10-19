@@ -14,6 +14,7 @@ Partial Class AddToLibrary
         End Try
     End Sub
 
+    'SUP'
     'Required by the Windows Form Designer
     Private components As System.ComponentModel.IContainer
 
